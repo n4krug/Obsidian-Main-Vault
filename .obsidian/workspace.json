@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "180edf84c8345493",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Web/Css/Cool effects and stuff.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Torrent/Torrent sites.md",
+                "file": "Web/Css/Cool effects and stuff.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Torrent/Torrent sites.md",
+                "file": "Web/Css/Cool effects and stuff.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Torrent/Torrent sites.md"
+                "file": "Web/Css/Cool effects and stuff.md"
               }
             }
           }
@@ -152,10 +164,11 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "e38b92501d51fa6e",
+  "active": "180edf84c8345493",
   "lastOpenFiles": [
-    "1337x.to.md",
+    "Web/Css/Cool effects and stuff.md",
     "Torrent/Torrent sites.md",
+    "1337x.to.md",
     "Test.md",
     "2022-10-23.md"
   ]
