@@ -13,38 +13,50 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test.md",
+                "file": "Hardware/Raspberry Pi/Wireless usb hub.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e38b92501d51fa6e",
+            "id": "4156ec27c006c84c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Torrent/Torrent sites.md",
+                "file": "Projects/Midi Stage lighting control.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "180edf84c8345493",
+            "id": "e14201452461bcaf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Web/Css/Cool effects and stuff.md",
+                "file": "Hardware/Raspberry Pi/Pico/Midi control code.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88921f63977fa26f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Midi Stage lighting control.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Web/Css/Cool effects and stuff.md",
+                "file": "Projects/Midi Stage lighting control.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Web/Css/Cool effects and stuff.md",
+                "file": "Projects/Midi Stage lighting control.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,11 +162,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Web/Css/Cool effects and stuff.md"
+                "file": "Projects/Midi Stage lighting control.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -164,11 +177,16 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "180edf84c8345493",
+  "active": "e27a2adc7de2d2ce",
   "lastOpenFiles": [
-    "Web/Css/Cool effects and stuff.md",
-    "Torrent/Torrent sites.md",
-    "1337x.to.md",
+    "Projects/Midi Stage lighting control.md",
+    "Hardware/Raspberry Pi/Pico/Midi control code.md",
+    "Hardware/Raspberry Pi/Pico/General info.md",
+    "Hardware/Raspberry Pi/Wireless usb hub.md",
+    "Hardware/Raspberry.md",
+    "Hardware/Raspberry_Pi/Wireless_usb_hub.md",
+    "Hardware%2FRaspberry Pi%2FWireless usb hub.md",
+    "Wireless.md",
     "Test.md",
     "2022-10-23.md"
   ]
