@@ -11,11 +11,28 @@
             "id": "954f134e365b65f8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e38b92501d51fa6e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Torrent/Torrent sites.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Torrent/Torrent sites.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Torrent/Torrent sites.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Torrent/Torrent sites.md"
+              }
             }
           }
         ]
@@ -131,8 +152,10 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "8530e95570d0b6b7",
+  "active": "e38b92501d51fa6e",
   "lastOpenFiles": [
+    "1337x.to.md",
+    "Torrent/Torrent sites.md",
     "Test.md",
     "2022-10-23.md"
   ]
