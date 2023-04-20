@@ -1,3 +1,6 @@
 {
-  "accentColor": ""
+  "accentColor": "#6bef97",
+  "cssTheme": "Dark Moss",
+  "interfaceFontFamily": "Cascadia Mono,Cascadia Code",
+  "textFontFamily": "CaskaydiaCove NF"
 }
