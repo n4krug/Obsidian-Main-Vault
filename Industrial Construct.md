@@ -1,5 +1,5 @@
 # Format
-- **Samma storlek och tjocklek på flera olika typer av rubriker. Går ej att skilja åt.
+- **Samma storlek och tjocklek på flera olika typer av rubriker. Går ej att skilja åt.**
 - **Nytt Avsnitt ny sida!!!** Huvudrubriker inom områdena (rubrik 3?) börjar mitt på eller i slutet av sidor. Gör det jobbigt att hitta runt rapporten. Punkten ovan förstärker detta.
 - För tätt mellan stycke och nästa rubrik eller förlite tomrum. Får texten att bli jobbig att kolla på.
 - Saknar referens till figurerna i texten
