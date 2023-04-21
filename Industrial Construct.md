@@ -69,11 +69,11 @@
 ### Genrer
 - Onödigt att presentera så mycket om genrer som inte har med raporten att göra.
 - Bör ha fokuserats kring simulerings genrer som är den relevanta.
-- *Mycket text på en källa
+- *Mycket text på en källa*
 
 ### Indie
 - Mer om aspekter som relaterar till det arbete som utförts för rapporten.
-- *Mycket text på en källa
+- *Mycket text på en källa*
 
 ## Programvara
 - *Kanske kunde haft kort text om vad programmvara är.*
