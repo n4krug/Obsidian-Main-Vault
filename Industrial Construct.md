@@ -177,4 +177,3 @@
 
 ### Framtid
 - Använd inte vi. Skriv i stället typ "detta skulle kunna implementeras"
-- 

@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Industrial Construct.md",
-                "mode": "source",
+                "file": "Brev melloting.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Industrial Construct.md",
+            "file": "Brev melloting.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Industrial Construct.md",
+            "file": "Brev melloting.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -114,8 +114,16 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Industrial Construct.md"
+            "file": "Brev melloting.md"
           }
+        }
+      },
+      {
+        "id": "09a1429d4b260018",
+        "type": "leaf",
+        "state": {
+          "type": "todo",
+          "state": {}
         }
       }
     ],
@@ -134,8 +142,9 @@
   },
   "active": "d75924bdfd58d3e3",
   "lastOpenFiles": [
-    "Untitled.md",
     "Industrial Construct.md",
+    "Brev melloting.md",
+    "Untitled.md",
     "Untitled"
   ]
 }
