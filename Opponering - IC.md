@@ -28,7 +28,7 @@
 - Bör kolla över svenskan i stort. En hel del missar.
 
 ## Checklista
-- [ ] Kort sammanfattning
+- [x] Kort sammanfattning
 - [ ] 3-5 relevanta frågor på arbetet.
 
 ----
@@ -38,6 +38,7 @@
 - Skapa en förståelse för problem och svårigheter vid spelskapande genom att skapa ett spel
 - Skapat ett fungerande spel med grafik, ljud och funktioner
 - Stött på problem som förklaras och har lösts
+Arbetet beskriver processen där en förståelse för spelutveckling processen fås genom skapandet av ett spel. Till spelet har grafik, ljud samt spelfunktionalitet skapats. De problem och svårigheter som stötts på under processen har fått ta fokus i rapporten och bidrar till förståelsen.
 
 ## Kritik
 
