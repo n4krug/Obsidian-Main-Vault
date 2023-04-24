@@ -50,6 +50,22 @@ Arbetet beskriver processen där en förståelse för spelutveckling processen f
 - Nej. Visar problem men inte knutna till aspekterna.
 - Saknar direkt svar mot frågeställningen
 - Presenterar problem
+
+### Hur valdes punkter i bakgrunden?
+- En del av dem är inte självklara och en del saknas.
+- 
+
+### Disskussion innehåller resultat
 - Disskussion fokuserar på lösningar på problem
 	- Ska inte presenteras där.
 
+### Svenskan behöver kollas över
+- Många konstiga och ofullständiga meningar.
+- *"Startade ett 2D Unity projekt."* & *"I mouseClick() blir ändrad på."*
+- Några mindre bra ordval för formella texter. En del pronomen där de inte ska finnas. "Fast". Talspråk.
+```
+Första tanken var att programmet skulle endast checka
+om platsen framför var ledig. Fast det skulle inte 
+fungera då även den flyttar sig fram ett steg, precis som 
+Figur 45 visar. 
+```
