@@ -53,7 +53,10 @@ Arbetet beskriver processen där en förståelse för spelutveckling processen f
 
 ### Hur valdes punkter i bakgrunden?
 - En del av dem är inte självklara och en del saknas.
-- 
+- ex. Programmering ger inte direkt något
+- Saknar djup för att vara tillräckligt och kunde därför hoppas över. Behöver ändå mer förståelse för att förstå.
+- Saknar grund om OOP
+- Finns om klasser och liknande men inteom vad OOP är i stort.
 
 ### Disskussion innehåller resultat
 - Disskussion fokuserar på lösningar på problem
