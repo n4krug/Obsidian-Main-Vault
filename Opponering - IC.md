@@ -41,9 +41,6 @@
 
 Arbetet beskriver processen där en förståelse för spelutveckling processen fås genom skapandet av ett spel. Till spelet har grafik, ljud samt spelfunktionalitet skapats. De problem och svårigheter som stötts på under processen har fått ta fokus i rapporten och bidrar till förståelsen.
 
-## Kritik
-
-
 ## Frågor
 
 ### Svårighet programmeringsspråk, behandlas inte? Hade ni problem, på grund av språket? Likadant med plattformar och kunskapsstöd?

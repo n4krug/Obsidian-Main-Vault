@@ -1,6 +1,7 @@
 {
   "accentColor": "#6bef97",
-  "cssTheme": "Dark Moss",
+  "cssTheme": "Dracula Official",
   "interfaceFontFamily": "Cascadia Mono,Cascadia Code",
-  "textFontFamily": "CaskaydiaCove NF"
+  "textFontFamily": "CaskaydiaCove NF",
+  "theme": "obsidian"
 }
