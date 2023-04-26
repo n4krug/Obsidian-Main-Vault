@@ -89,8 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6bd6abc379c5c29f",
@@ -177,8 +176,9 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a408b10919c4b55f",
+  "active": "8530e95570d0b6b7",
   "lastOpenFiles": [
+    "gitsync.ps1",
     "Industrial Construct.md",
     "Opponering - IC.md",
     "Brev melloting.md",
