@@ -4,17 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "a4f972e63f2af0f7",
+        "id": "c1a1672098f362cf",
         "type": "tabs",
-        "dimension": 48.61407249466951,
         "children": [
           {
-            "id": "ae80b202b5e91486",
+            "id": "15293187199cec3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Industrial Construct.md",
+                "file": "Skola/Svenska/3/NP Tal GPT.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "6809261a696d1554",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skola/Svenska/3/Tal Politik Läsning.md",
                 "mode": "source",
                 "source": false
               }
@@ -23,17 +34,16 @@
         ]
       },
       {
-        "id": "1b6e579c4637c25a",
+        "id": "f16deb18d8adc5b7",
         "type": "tabs",
-        "dimension": 51.385927505330486,
         "children": [
           {
-            "id": "a408b10919c4b55f",
+            "id": "4e06db989e28d9fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Skola/Svenska/3/NP Tal.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Skola/Svenska/3/NP Tal.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Skola/Svenska/3/NP Tal.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Skola/Svenska/3/NP Tal.md"
               }
             }
           },
@@ -176,15 +186,22 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a408b10919c4b55f",
+  "active": "4e06db989e28d9fb",
   "lastOpenFiles": [
+    "Skola/Svenska/3/NP Tal GPT.md",
+    "Skola/Svenska/3/NP Tal.md",
+    "Skola/Svenska/3/Tal Politik Läsning.md",
+    "README.md",
+    "Skola/GYA",
+    "Skola/Svenska/3",
+    "Skola/Svenska",
+    "Skola",
     "token.txt",
-    "Opponering - IC.md",
+    "Skola/GYA/Opponering - IC.md",
     "gitsync.ps1",
-    "Industrial Construct.md",
+    "Skola/GYA/Industrial Construct.md",
     "Brev melloting.md",
     "Test.md",
-    "README.md",
     "Software/Web/SolidJS/docs/createStore.md",
     "Software/Web/SolidJS/docs/createResource.md",
     "Software/Web/SolidJS/Index.md",
