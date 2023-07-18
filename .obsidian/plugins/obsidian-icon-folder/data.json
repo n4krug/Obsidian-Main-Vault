@@ -5,7 +5,13 @@
     "fontSize": 16,
     "emojiStyle": "none",
     "iconColor": null,
-    "recentlyUsedIcons": [],
+    "recentlyUsedIcons": [
+      "IbWebsiteWithImage",
+      "FasDiagramProject",
+      "FasMicrochip",
+      "RiComputerFill",
+      "RiComputerLine"
+    ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
     "extraMargin": {
@@ -15,5 +21,11 @@
       "left": 0
     },
     "iconInTabsEnabled": false
-  }
+  },
+  "Skola": "FasSchool",
+  "Skola/Gymnasiet": "FasX",
+  "Hardware": "RiComputerFill",
+  "Hardware/Raspberry Pi": "FasMicrochip",
+  "Projects": "FasDiagramProject",
+  "Software": "IbWebsiteWithImage"
 }
