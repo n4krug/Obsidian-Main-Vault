@@ -13,9 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skola/LTU/Differentialkalkyl/1.2 Mängdlära.md",
+                "file": "Skola/LTU/Ingenjörsvetenskap (R0007R)/1.1 Intro.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          },
+          {
+            "id": "49b03de8325b7aee",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Mänfd-grund.md"
               }
             }
           },
@@ -23,16 +33,13 @@
             "id": "5cb7f1845f704692",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Skola/LTU/Differentialkalkyl/1.2 Mängdlära.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Snitt.md"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -90,8 +97,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6bd6abc379c5c29f",
@@ -107,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skola/LTU/Differentialkalkyl/1.2 Mängdlära.md",
+                "file": "Skola/LTU/Ingenjörsvetenskap (R0007R)/1.1 Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skola/LTU/Differentialkalkyl/1.2 Mängdlära.md",
+                "file": "Skola/LTU/Ingenjörsvetenskap (R0007R)/1.1 Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skola/LTU/Differentialkalkyl/1.2 Mängdlära.md"
+                "file": "Skola/LTU/Ingenjörsvetenskap (R0007R)/1.1 Intro.md"
               }
             }
           },
@@ -179,15 +185,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5cb7f1845f704692",
+  "active": "8530e95570d0b6b7",
   "lastOpenFiles": [
-    "Excalidraw/Snitt.md",
-    "Excalidraw.md",
-    "Skola/LTU/Differentialkalkyl/1.2 Mängdlära.md",
-    "Excalidraw",
     "Skola/LTU/index.md",
-    "Skola/LTU/Ingenjörsvetenskap/1 Intro.md",
-    "Skola/LTU/Differentialkalkyl/1.1 Intro.md",
+    "Skola/LTU/Ingenjörsvetenskap (R0007R)/1.1 Intro.md",
+    "Skola/LTU/Differentialkalkyl (M0047M)/1.1 Intro.md",
+    "Skola/LTU/Differentialkalkyl (M0047M)/1.2 Mängdlära.md",
+    "Excalidraw/Mänfd-grund.md",
+    "Excalidraw/Mänfd-grund.svg",
+    "Excalidraw/Snitt.md",
+    "Excalidraw/Snitt.svg",
+    "Excalidraw.md",
+    "Excalidraw",
     "Differentialkalkyl/1.1 Intro.md",
     "\"/Differentialkalkyl/1.1.md",
     "\"/Differentialkalkyl",
@@ -195,8 +204,8 @@
     "Differentialkalkyl/1.1 1.md",
     "Differentialkalkyl/1.1.md",
     "Differentialkalkyl",
-    "Skola/LTU/Differentialkalkyl",
-    "Skola/LTU/Ingenjörsvetenskap",
+    "Skola/LTU/Differentialkalkyl (M0047M)",
+    "Skola/LTU/Ingenjörsvetenskap (R0007R)",
     "README.md",
     "Skola/LTU",
     "Software/Torrent/Torrent sites.md",
@@ -215,8 +224,6 @@
     "Software/Web/SolidJS/docs/createResource.md",
     "Software/Web/SolidJS/Index.md",
     "Software/Web/SolidJS/docs/createSignal.md",
-    "Software/Web/SolidJS/Untitled 1.md",
-    "Hardware/Raspberry Pi/Pico/Midi control code.md",
-    "Hardware/Raspberry Pi/Pico/Servo control.md"
+    "Software/Web/SolidJS/Untitled 1.md"
   ]
 }
