@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skola/LTU/Ingenjörsvetenskap (R0007R)/1.1 Intro.md",
+                "file": "Skola/LTU/Differentialkalkyl/1.1 Intro.md",
                 "mode": "source",
                 "source": false
               }
@@ -113,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skola/LTU/Ingenjörsvetenskap (R0007R)/1.1 Intro.md",
+                "file": "Skola/LTU/Differentialkalkyl/1.1 Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skola/LTU/Ingenjörsvetenskap (R0007R)/1.1 Intro.md",
+                "file": "Skola/LTU/Differentialkalkyl/1.1 Intro.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skola/LTU/Ingenjörsvetenskap (R0007R)/1.1 Intro.md"
+                "file": "Skola/LTU/Differentialkalkyl/1.1 Intro.md"
               }
             }
           },
@@ -185,45 +185,53 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8530e95570d0b6b7",
+  "active": "3fe5bba32bce5e2f",
   "lastOpenFiles": [
+    "Skola/LTU/Ingenjörsvetenskap/1.1 Intro.md",
+    "n4nteckningar/build/sitemap.xml",
+    "n4nteckningar/build/index.html",
+    "n4nteckningar/build/Ingenjörsvetenskap (R0007R)/1.1 Intro/index.html",
+    "n4nteckningar/build/Ingenjörsvetenskap (R0007R)/1.1 Intro",
+    "n4nteckningar/build/Ingenjörsvetenskap (R0007R)",
+    "n4nteckningar/build/404.html",
+    "n4nteckningar/build/Differentialkalkyl (M0047M)/1.2 Mängdlära/index.html",
+    "n4nteckningar/build/Differentialkalkyl (M0047M)/1.1 Intro/index.html",
+    "n4nteckningar/build/Differentialkalkyl (M0047M)/1.2 Mängdlära",
+    "n4nteckningar/build/Differentialkalkyl (M0047M)/1.1 Intro",
+    "n4nteckningar/build/img/undraw_docusaurus_tree.svg",
+    "n4nteckningar/build/img/undraw_docusaurus_react.svg",
+    "n4nteckningar/build/img/undraw_docusaurus_mountain.svg",
+    "n4nteckningar/build/img/logo.svg",
+    "n4nteckningar/build/img/docusaurus.png",
+    "n4nteckningar/build/img/docusaurus-social-card.jpg",
+    "n4nteckningar/build/Excalidraw/Snitt.svg",
+    "n4nteckningar/build/Excalidraw/Snitt.md",
+    "n4nteckningar/build/Excalidraw/Mänfd-grund.svg",
+    "n4nteckningar/build/Excalidraw/Mänfd-grund.md",
+    "n4nteckningar/build/assets/images/Snitt-22d3f410da755077ef9b0c41ecc68236.svg",
+    "n4nteckningar/build/assets/images/Mänfd-grund-7ac6201f402b04f1440b03e348a1f560.svg",
+    "n4nteckningar/docs/LTU/Ingenjörsvetenskap (R0007R)/1.1 Intro.md",
+    "n4nteckningar/docs/LTU/Differentialkalkyl (M0047M)/1.2 Mängdlära.md",
+    "n4nteckningar/docs/LTU/Differentialkalkyl (M0047M)/1.1 Intro.md",
+    "n4nteckningar/docs/Ingenjörsvetenskap (R0007R)/1.1 Intro.md",
+    "n4nteckningar/docs/Differentialkalkyl (M0047M)/1.2 Mängdlära.md",
+    "n4nteckningar/docs/Differentialkalkyl (M0047M)/1.1 Intro.md",
+    "n4nteckningar/docs.temp/Ingenjörsvetenskap (R0007R)/1.1 Intro.md",
+    "n4nteckningar/docs.temp/Differentialkalkyl (M0047M)/1.2 Mängdlära.md",
+    "n4nteckningar/docs.temp/Differentialkalkyl (M0047M)/1.1 Intro.md",
+    "n4nteckningar/README.md",
     "Skola/LTU/index.md",
-    "Skola/LTU/Ingenjörsvetenskap (R0007R)/1.1 Intro.md",
-    "Skola/LTU/Differentialkalkyl (M0047M)/1.1 Intro.md",
-    "Skola/LTU/Differentialkalkyl (M0047M)/1.2 Mängdlära.md",
+    "Skola/LTU/Differentialkalkyl/1.1 Intro.md",
+    "Skola/LTU/Differentialkalkyl/1.2 Mängdlära.md",
     "Excalidraw/Mänfd-grund.md",
-    "Excalidraw/Mänfd-grund.svg",
     "Excalidraw/Snitt.md",
-    "Excalidraw/Snitt.svg",
     "Excalidraw.md",
-    "Excalidraw",
     "Differentialkalkyl/1.1 Intro.md",
     "\"/Differentialkalkyl/1.1.md",
-    "\"/Differentialkalkyl",
-    "\"",
     "Differentialkalkyl/1.1 1.md",
     "Differentialkalkyl/1.1.md",
-    "Differentialkalkyl",
-    "Skola/LTU/Differentialkalkyl (M0047M)",
-    "Skola/LTU/Ingenjörsvetenskap (R0007R)",
     "README.md",
-    "Skola/LTU",
     "Software/Torrent/Torrent sites.md",
-    "Brev melloting.md",
-    "Untitled.canvas",
-    "Skola/Gymnasiet/Svenska/3/NP Tal.md",
-    "Skola/Gymnasiet",
-    "Skola/Gymnasiet/Svenska/3/NP Tal GPT.md",
-    "Skola/Gymnasiet/Svenska/3/Tal Politik Läsning.md",
-    "Skola/Gymnasiet/GYA",
-    "Skola/Gymnasiet/Svenska/3",
-    "Skola/Gymnasiet/GYA/Opponering - IC.md",
-    "Skola/Gymnasiet/GYA/Industrial Construct.md",
-    "Test.md",
-    "Software/Web/SolidJS/docs/createStore.md",
-    "Software/Web/SolidJS/docs/createResource.md",
-    "Software/Web/SolidJS/Index.md",
-    "Software/Web/SolidJS/docs/createSignal.md",
-    "Software/Web/SolidJS/Untitled 1.md"
+    "Untitled.canvas"
   ]
 }
