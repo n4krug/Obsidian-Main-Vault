@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "63e4d060de740ee4",
+        "id": "8913e0d1291a206b",
         "type": "tabs",
         "children": [
           {
-            "id": "b0c6b5f2ad980de7",
+            "id": "3fe5bba32bce5e2f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Skola/LTU/Differentialkalkyl/1.2 Mängdlära.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5cb7f1845f704692",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Skola/LTU/Differentialkalkyl/1.2 Mängdlära.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -77,7 +90,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6bd6abc379c5c29f",
@@ -93,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Skola/LTU/Differentialkalkyl/1.2 Mängdlära.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Skola/LTU/Differentialkalkyl/1.2 Mängdlära.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Skola/LTU/Differentialkalkyl/1.2 Mängdlära.md"
               }
             }
           },
@@ -165,8 +179,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b0c6b5f2ad980de7",
+  "active": "5cb7f1845f704692",
   "lastOpenFiles": [
+    "Excalidraw/Snitt.md",
+    "Excalidraw.md",
+    "Skola/LTU/Differentialkalkyl/1.2 Mängdlära.md",
+    "Excalidraw",
+    "Skola/LTU/index.md",
+    "Skola/LTU/Ingenjörsvetenskap/1 Intro.md",
+    "Skola/LTU/Differentialkalkyl/1.1 Intro.md",
+    "Differentialkalkyl/1.1 Intro.md",
+    "\"/Differentialkalkyl/1.1.md",
+    "\"/Differentialkalkyl",
+    "\"",
+    "Differentialkalkyl/1.1 1.md",
+    "Differentialkalkyl/1.1.md",
+    "Differentialkalkyl",
+    "Skola/LTU/Differentialkalkyl",
+    "Skola/LTU/Ingenjörsvetenskap",
+    "README.md",
+    "Skola/LTU",
     "Software/Torrent/Torrent sites.md",
     "Brev melloting.md",
     "Untitled.canvas",
@@ -174,14 +206,9 @@
     "Skola/Gymnasiet",
     "Skola/Gymnasiet/Svenska/3/NP Tal GPT.md",
     "Skola/Gymnasiet/Svenska/3/Tal Politik Läsning.md",
-    "README.md",
     "Skola/Gymnasiet/GYA",
     "Skola/Gymnasiet/Svenska/3",
-    "Skola/Gymnasiet/Svenska",
-    "Skola",
-    "token.txt",
     "Skola/Gymnasiet/GYA/Opponering - IC.md",
-    "gitsync.ps1",
     "Skola/Gymnasiet/GYA/Industrial Construct.md",
     "Test.md",
     "Software/Web/SolidJS/docs/createStore.md",
@@ -190,7 +217,6 @@
     "Software/Web/SolidJS/docs/createSignal.md",
     "Software/Web/SolidJS/Untitled 1.md",
     "Hardware/Raspberry Pi/Pico/Midi control code.md",
-    "Hardware/Raspberry Pi/Pico/Servo control.md",
-    "Hardware/Raspberry Pi/Pico/General info.md"
+    "Hardware/Raspberry Pi/Pico/Servo control.md"
   ]
 }

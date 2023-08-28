@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "IbGraphLineUp",
+      "FasPlusMinus",
+      "FasSchool",
       "IbWebsiteWithImage",
-      "FasDiagramProject",
-      "FasMicrochip",
-      "RiComputerFill",
-      "RiComputerLine"
+      "FasDiagramProject"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -27,5 +27,8 @@
   "Hardware": "RiComputerFill",
   "Hardware/Raspberry Pi": "FasMicrochip",
   "Projects": "FasDiagramProject",
-  "Software": "IbWebsiteWithImage"
+  "Software": "IbWebsiteWithImage",
+  "Skola/LTU": "FasSchool",
+  "Skola/LTU/Differentialkalkyl": "FasPlusMinus",
+  "Skola/LTU/Ingenjörsvetenskap": "IbGraphLineUp"
 }

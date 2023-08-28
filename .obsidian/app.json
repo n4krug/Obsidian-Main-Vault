@@ -1,9 +1,6 @@
 {
   "promptDelete": false,
-  "spellcheckLanguages": [
-    "en-US",
-    "sv"
-  ],
+  "spellcheckLanguages": null,
   "spellcheck": false,
   "pdfExportSettings": {
     "includeName": true,
