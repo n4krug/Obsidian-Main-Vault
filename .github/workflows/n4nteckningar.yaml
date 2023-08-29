@@ -3,8 +3,7 @@ on:
   push:
     branches: ["main"]
 jobs:
-  build:
-    name: Make POST request
+  sync:
     runs-on: ubuntu-latest
     steps:
       - name: Install SSH Client 🔑
@@ -29,6 +28,11 @@ jobs:
           git commit -m "Update submodules" || echo "No changes to commit"
           git push
 
+  build:
+    needs: sync
+    name: Make POST request
+    runs-on: ubuntu-latest
+    steps:
       - name: Curl request
         shell: bash
         env:
