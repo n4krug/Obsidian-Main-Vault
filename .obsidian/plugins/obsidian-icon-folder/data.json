@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FasCampground",
       "IbGraphLineUp",
       "FasPlusMinus",
       "FasSchool",
-      "IbWebsiteWithImage",
-      "FasDiagramProject"
+      "IbWebsiteWithImage"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -30,5 +30,6 @@
   "Software": "IbWebsiteWithImage",
   "Skola/LTU": "FasSchool",
   "Skola/LTU/Ingenjörsvetenskap": "IbGraphLineUp",
-  "Skola/LTU/Differentialkalkyl": "FasPlusMinus"
+  "Skola/LTU/Differentialkalkyl": "FasPlusMinus",
+  "Skola/LTU/Differentialkalkyl/1 Grunder": "FasCampground"
 }
