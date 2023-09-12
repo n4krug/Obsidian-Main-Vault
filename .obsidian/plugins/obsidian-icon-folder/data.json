@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiDiff",
       "FasCampground",
       "IbGraphLineUp",
       "FasPlusMinus",
-      "FasSchool",
-      "IbWebsiteWithImage"
+      "FasSchool"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -31,5 +31,6 @@
   "Skola/LTU": "FasSchool",
   "Skola/LTU/Ingenjörsvetenskap": "IbGraphLineUp",
   "Skola/LTU/Differentialkalkyl": "FasPlusMinus",
-  "Skola/LTU/Differentialkalkyl/1 Grunder": "FasCampground"
+  "Skola/LTU/Differentialkalkyl/1 Grunder": "FasCampground",
+  "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering": "LiDiff"
 }
