@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F12.2 Oegentliga gränsvärden.md",
+                "file": "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F12.2 Oegentliga gränsvärden.md",
+                "file": "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F12.2 Oegentliga gränsvärden.md",
+                "file": "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F12.2 Oegentliga gränsvärden.md"
+                "file": "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md"
               }
             }
           },
@@ -200,8 +200,9 @@
   },
   "active": "28477a973f05a939",
   "lastOpenFiles": [
-    "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F12.1 Gränsvärden.md",
     "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F12.2 Oegentliga gränsvärden.md",
+    "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
+    "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F12.1 Gränsvärden.md",
     "Skola/LTU/Differentialkalkyl/1 Grunder/3.2 Polynom mm..md",
     "Excalidraw/20230912_133130.jpg",
     "Räkna/Untitled.md",
@@ -245,7 +246,6 @@
     "n4nteckningar/build/img/undraw_docusaurus_tree.svg",
     "n4nteckningar/build/img/undraw_docusaurus_react.svg",
     "n4nteckningar/build/img/undraw_docusaurus_mountain.svg",
-    "n4nteckningar/build/Excalidraw/Snitt.md",
     "Untitled.canvas"
   ]
 }
