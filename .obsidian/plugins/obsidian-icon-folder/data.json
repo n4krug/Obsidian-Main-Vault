@@ -29,8 +29,8 @@
   "Projects": "FasDiagramProject",
   "Software": "IbWebsiteWithImage",
   "Skola/LTU": "FasSchool",
-  "Skola/LTU/Ingenjörsvetenskap": "IbGraphLineUp",
-  "Skola/LTU/Differentialkalkyl": "FasPlusMinus",
-  "Skola/LTU/Differentialkalkyl/1 Grunder": "FasCampground",
-  "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering": "LiDiff"
+  "Skola/LTU/R0007R Differentialkalkyl": "FasPlusMinus",
+  "Skola/LTU/R0007R Differentialkalkyl/1 Grunder": "FasCampground",
+  "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering": "LiDiff",
+  "Skola/LTU/M0047M Ingenjörsvetenskap och Rymdteknik": "IbGraphLineUp"
 }

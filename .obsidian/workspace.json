@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skola/LTU/Differentialkalkyl/1 Grunder/6.1 Trigonometri.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/6.1 Trigonometri.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,14 +35,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "cb0fe0e8cfd4974d",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.4.12"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md"
+                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md"
               }
             }
           },
@@ -198,45 +208,45 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "28477a973f05a939",
+  "active": "8530e95570d0b6b7",
   "lastOpenFiles": [
-    "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F12.2 Oegentliga gränsvärden.md",
-    "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
-    "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering/F12.1 Gränsvärden.md",
-    "Skola/LTU/Differentialkalkyl/1 Grunder/3.2 Polynom mm..md",
+    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F12.2 Oegentliga gränsvärden.md",
+    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
+    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F12.1 Gränsvärden.md",
+    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/3.2 Polynom mm..md",
     "Excalidraw/20230912_133130.jpg",
     "Räkna/Untitled.md",
-    "Skola/LTU/Differentialkalkyl/1 Grunder/6.1 Trigonometri.md",
+    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/6.1 Trigonometri.md",
     "Excalidraw/20230912_131852.jpg",
     "Excalidraw/20230912_133130.jpg.crdownload",
     "Excalidraw/20230912_131852.jpg.crdownload",
-    "Skola/LTU/Differentialkalkyl/1 Grunder/7.1 Talföljder.md",
-    "Skola/LTU/Differentialkalkyl/2 Differentialkalkyl och derivering",
-    "Skola/LTU/Differentialkalkyl/1 Grunder/8.1 Induktion.md",
+    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/7.1 Talföljder.md",
+    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering",
+    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/8.1 Induktion.md",
     "Excalidraw/Drawing 2023-09-07 17.22.40.excalidraw.md",
     "Räkna/23-04-09 Matte.md",
     "README.md",
     "Excalidraw/Drawing2023-09-0514.12.42.excalidraw.md",
-    "Skola/LTU/Differentialkalkyl/1 Grunder/3.1 Ekvationer.md",
+    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/3.1 Ekvationer.md",
     "Excalidraw/Drawing2023-09-0514.12.42.excalidraw.svg",
     "Räkna",
     "Excalidraw/Drawing 2023-09-04 11.34.36.excalidraw.md",
-    "Skola/LTU/Differentialkalkyl/1 Grunder/1.2 Mängdlära.md",
-    "Skola/LTU/Differentialkalkyl/1 Grunder/1.3 Logik.md",
-    "Skola/LTU/Ingenjörsvetenskap/1.1 Intro.md",
+    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/1.2 Mängdlära.md",
+    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/1.3 Logik.md",
+    "Skola/LTU/M0047M Ingenjörsvetenskap och Rymdteknik/1.1 Intro.md",
     "Excalidraw/Drawing2023-09-0410.39.50.excalidraw.md",
     "Excalidraw/Drawing2023-09-0410.39.50.excalidraw.svg",
     "Excalidraw/Drawing2023-09-0410.32.05.excalidraw.svg",
     "Excalidraw/Drawing2023-09-0410.32.05.excalidraw.md",
     "Excalidraw/Drawing 2023-08-29 10.20.30.excalidraw.md",
-    "Skola/LTU/Differentialkalkyl/1 Grunder/2.1 Summor och Produkter.md",
-    "Skola/LTU/Differentialkalkyl/1 Grunder/2.2 Intervall på tallinjen.md",
+    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/2.1 Summor och Produkter.md",
+    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/2.2 Intervall på tallinjen.md",
     "Excalidraw/Drawing2023-09-0410.26.57.excalidraw.svg",
     "Excalidraw/Drawing2023-09-0410.26.57.excalidraw.md",
-    "Skola/LTU/Differentialkalkyl/1 Grunder/1.4 Ekvationslösning.md",
-    "Skola/LTU/Differentialkalkyl/1 Grunder/1.1 Intro.md",
+    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/1.4 Ekvationslösning.md",
+    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/1.1 Intro.md",
     "Excalidraw/Drawing-2023-08-29-10.20.30.excalidraw.svg",
-    "Skola/LTU/Differentialkalkyl/1 Grunder",
+    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder",
     "Excalidraw/Mänfd-grund.md",
     "n4nteckningar/build/sitemap.xml",
     "n4nteckningar/build/index.html",
