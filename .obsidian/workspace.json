@@ -35,24 +35,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F15 Deriveringsregler.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "cb0fe0e8cfd4974d",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.4.12"
-              }
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F15 Deriveringsregler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F15 Deriveringsregler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md"
+                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F15 Deriveringsregler.md"
               }
             }
           },
@@ -208,10 +198,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8530e95570d0b6b7",
+  "active": "28477a973f05a939",
   "lastOpenFiles": [
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F12.2 Oegentliga gränsvärden.md",
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
+    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F14 Derivata.md",
+    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F15 Deriveringsregler.md",
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F12.1 Gränsvärden.md",
     "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/3.2 Polynom mm..md",
     "Excalidraw/20230912_133130.jpg",
@@ -244,10 +236,8 @@
     "Excalidraw/Drawing2023-09-0410.26.57.excalidraw.svg",
     "Excalidraw/Drawing2023-09-0410.26.57.excalidraw.md",
     "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/1.4 Ekvationslösning.md",
-    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/1.1 Intro.md",
     "Excalidraw/Drawing-2023-08-29-10.20.30.excalidraw.svg",
     "Skola/LTU/R0007R Differentialkalkyl/1 Grunder",
-    "Excalidraw/Mänfd-grund.md",
     "n4nteckningar/build/sitemap.xml",
     "n4nteckningar/build/index.html",
     "n4nteckningar/build/Ingenjörsvetenskap (R0007R)/1.1 Intro/index.html",
