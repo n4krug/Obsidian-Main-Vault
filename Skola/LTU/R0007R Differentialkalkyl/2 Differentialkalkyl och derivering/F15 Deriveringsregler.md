@@ -39,7 +39,7 @@ Derivatan existerar inte i $x=0$ eftersom höger och vänstergränsvärdena är 
 Derivering är en linjär operator  
 1. $\frac{d}{dx}(f(x)+g(x))=f'(x)+g'(x)$  
 2. $\frac{d}{dx}(f(x)-g(x))=f'(x)-g'(x)$  
-3. $\frac{d}{dx}(df(x))=c*f'(x), c\in\mathbb{R}$  
+3. $\frac{d}{dx}(c\cdot{f(x)})=c\cdot{f'(x)}, c\in\mathbb{R}$  
 
 ## Sats (Produktregeln)
 
