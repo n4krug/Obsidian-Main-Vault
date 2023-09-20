@@ -36,7 +36,7 @@ Visa med hjälp av medelvärdessatsen på $f(x)=\cos{x}+\frac{x^{2}}{2}$ på $[0
 > $\Leftrightarrow$  
 > $\cos{t}>1- \frac{t^{2}}{2}$ för $t>0$ _(v.s.v.)_  
 
-**Anmärkning**
+**Anmärkning**  
 $\cos{t}$ och $1- \frac{t^{2}}{2}$ är jämna funktioner  
 $\cos{-t}=\cos{t}$  
 $1- \frac{-t^{2}}{2}=1- \frac{t^{2}}{2}$  
@@ -60,9 +60,56 @@ Låt $J$ vara ett öppet intervall och $I$ ett intervall som inehåller alla pun
 Antag:  
 1. $f$ är kontinuerlig på $I$  
 2. $f'$ existerar på $J$  
+
 då gäller:  
 a. Om $f'(x)>0$ för alla $x\in J$ så är $f$ strängt växande på $I$.  
 b. Om $f'(x)<0$ för alla $x\in J$ sä är $f$ strängt avtagande på $I$.  
 c. Om $f'(x)\ge 0$ för alla $x\in J$ så är $f$ växande på $I$.  
 d. Om $f'(x)\le 0$ för alla $x\in J$ så är $f$ avtagande på $I$.  
 
+### Sats
+
+Om $f$ är kontinuerlig på ett intervall $I$ och $f'(x)=0$ i varje inre punkt till $I$ så är $f(x)=k$ (konstant) på $I$.
+
+#### Bevis
+
+Låt $x_{0}\in I$ och $x$ en annan punkt $x\in I$  
+Låt $k=f(x_{0})$  
+
+Medelvärdessatsen ger då  
+$\frac{f(x)-f(x_{0})}{x-x_{0}}=f'(c)=0$ för någon inre punkt $c$  
+$\Leftrightarrow$  
+$f(x)-f(x_{0})=0$ för all $x\in I,x\ne x_{0}$  
+dvs $f(x)=f(x_{0})=k$  
+$\forall x\in I$  
+
+### Exempel
+
+När är funktionen $f(x)=x^{4}+4x^{3}-8x^{2}+7$ växande respektive avtagande?  
+> $f'(x)=4x^{3}+12x^{2}-16x$  
+> $=4x(x^{2}+3x-4)$  
+> $x=1$ är ett nollställe till $x^{2}+3x-4$  
+> polynomdivision ger $(x-1)(x+4)$  
+> $f'(x)=4x(x-1)(x+4)$  
+> ![](/Excalidraw/teckenstudieex.svg)  
+> svar:  
+> $f$ är strängt växande på intervallen $[-4,0]$ och $[1,\infty)$  
+> och strängt avtagande på intervallen $(-\infty,-4]$ och $[0,1]$  
+
+### Sats (Kritisk punkt)
+
+Om $f$ är definerad på ett öppet intervall $(a,b)$ och antar ett maximum (eller minimum) i en punkt $c\in(a,b)$ och om $f'(c)$ existerar så är $f'(x)=0$.  
+
+#### Bevis
+
+Antag att $f$ har maximum i $x=c$  
+Då är $f(x)-f(c)\le 0$ om $x\in(a,b)$  
+
+Det ger $\frac{f(x)-f(c)}{x-c}\le0$ om $x\in(a,b)$  
+dvs $f'(c)=\lim\limits_{x\to c^{+}}\frac{f(x)-f(c)}{x-c}\le0$  
+
+och för $x\in(a,c)$ får vi $\frac{f(x)-f(c)}{x-c}\ge0$  
+dvs $f'(c)=\lim\limits_{x\to c^{-}}\frac{f(x)-f(c)}{x-c}\ge0$  
+
+$f'(c)$ existerar ger att $f'(c)=\lim\limits_{x\to c^{+}}\frac{f(x)-f(c)}{x-c}=\lim\limits_{x\to c^{-}}\frac{f(x)-f(c)}{x-c}=0$  
+v.s.v.  
