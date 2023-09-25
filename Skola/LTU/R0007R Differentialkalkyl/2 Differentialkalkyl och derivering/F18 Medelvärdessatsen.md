@@ -105,10 +105,10 @@ Om $f$ är definerad på ett öppet intervall $(a,b)$ och antar ett maximum (ell
 Antag att $f$ har maximum i $x=c$  
 Då är $f(x)-f(c)\le 0$ om $x\in(a,b)$  
 
-Det ger $\frac{f(x)-f(c)}{x-c}\le0$ om $x\in(a,b)$  
+Det ger $\frac{f(x)-f(c)}{x-c}\le0$ om $x\in(c,b)$ _(stigande före maxima)_  
 dvs $f'(c)=\lim\limits_{x\to c^{+}}\frac{f(x)-f(c)}{x-c}\le0$  
 
-och för $x\in(a,c)$ får vi $\frac{f(x)-f(c)}{x-c}\ge0$  
+och för $x\in(a,c)$ får vi $\frac{f(x)-f(c)}{x-c}\ge0$ _(fallande efter maxima)_  
 dvs $f'(c)=\lim\limits_{x\to c^{-}}\frac{f(x)-f(c)}{x-c}\ge0$  
 
 $f'(c)$ existerar ger att $f'(c)=\lim\limits_{x\to c^{+}}\frac{f(x)-f(c)}{x-c}=\lim\limits_{x\to c^{-}}\frac{f(x)-f(c)}{x-c}=0$  

@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F18 Medelvärdessatsen.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F22 Inversa funktioner.md",
                 "mode": "source",
                 "source": false
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F18 Medelvärdessatsen.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F22 Inversa funktioner.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,7 +157,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F18 Medelvärdessatsen.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F22 Inversa funktioner.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +180,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F18 Medelvärdessatsen.md"
+                "file": "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F22 Inversa funktioner.md"
               }
             }
           },
@@ -224,16 +224,20 @@
   },
   "active": "ba179d809f4504af",
   "lastOpenFiles": [
+    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F21 Implicit derivering, primitiv funktion och rörelse.md",
+    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F22 Inversa funktioner.md",
+    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F15 Deriveringsregler.md",
+    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F14 Derivata.md",
+    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
+    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F18 Medelvärdessatsen.md",
     "Excalidraw/teckenstudieex.md",
     "Excalidraw/teckenstudieex.svg",
-    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F18 Medelvärdessatsen.md",
     "Excalidraw/swappy-20230920_082622.png",
     "Excalidraw/swappy-20230920_082611.png",
     "Excalidraw/swappy-20230920_082500.png",
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F17 Trogonometriska funktioners derivator.md",
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F16 Kedjeregeln.md",
     "Brev melloting.md",
-    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F15 Deriveringsregler.md",
     "Räkna/Untitled 1.md",
     "Skola/LTU/R0007R Differentialkalkyl/Uppgifter/Induktion - Derivator och sånt.md",
     "Räkna/Untitled.md",
@@ -241,8 +245,6 @@
     "Skola/LTU/R0007R Differentialkalkyl/Uppgifter",
     "Excalidraw/Trigthetaderiv.md",
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F12.2 Oegentliga gränsvärden.md",
-    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
-    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F14 Derivata.md",
     "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/8.1 Induktion.md",
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F12.1 Gränsvärden.md",
     "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/3.2 Polynom mm..md",
@@ -260,7 +262,6 @@
     "Excalidraw/Drawing2023-09-0514.12.42.excalidraw.svg",
     "Räkna",
     "Excalidraw/Drawing 2023-09-04 11.34.36.excalidraw.md",
-    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/1.2 Mängdlära.md",
     "Excalidraw/Drawing2023-09-0410.39.50.excalidraw.svg",
     "Excalidraw/Drawing2023-09-0410.32.05.excalidraw.svg",
     "Excalidraw/Drawing2023-09-0410.26.57.excalidraw.svg",
