@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiFunctions",
       "LiDiff",
       "FasCampground",
       "IbGraphLineUp",
-      "FasPlusMinus",
-      "FasSchool"
+      "FasPlusMinus"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -32,5 +32,6 @@
   "Skola/LTU/R0007R Differentialkalkyl": "FasPlusMinus",
   "Skola/LTU/R0007R Differentialkalkyl/1 Grunder": "FasCampground",
   "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering": "LiDiff",
-  "Skola/LTU/M0047M Ingenjörsvetenskap och Rymdteknik": "IbGraphLineUp"
+  "Skola/LTU/M0047M Ingenjörsvetenskap och Rymdteknik": "IbGraphLineUp",
+  "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner": "RiFunctions"
 }
