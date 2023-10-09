@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F28.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F33 Grafritning.md",
                 "mode": "source",
                 "source": false
               }
@@ -59,7 +59,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F28.md",
+                "file": "Räkna/Matlab lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4124e164bac82d68",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phösarphaest.md",
                 "mode": "source",
                 "source": false
               }
@@ -78,7 +90,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -152,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F28.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F33 Grafritning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F28.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F33 Grafritning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F28.md"
+                "file": "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F33 Grafritning.md"
               }
             }
           },
@@ -234,21 +246,26 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "9cce017892b98e94",
+  "active": "ba179d809f4504af",
   "lastOpenFiles": [
+    "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F28.md",
+    "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F27.md",
+    "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F22 Inversa funktioner.md",
+    "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F33 Grafritning.md",
+    "Phösarphaest.md",
+    "Räkna/Matlab lab.md",
+    "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F31.md",
+    "Räkna/Untitled.md",
+    "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar",
     "Excalidraw/tan-Drawing2023-10-0314.05.18.excalidraw.svg",
     "Excalidraw/Drawing2023-10-0314.05.18.excalidraw.md",
     "Excalidraw/sin-Drawing2023-10-0314.05.18.excalidraw.svg",
-    "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F28.md",
     "Skola/LTU/R0007R Differentialkalkyl/Uppgifter/Induktion - Derivator och sånt.md",
-    "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F27.md",
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F15 Deriveringsregler.md",
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F16 Kedjeregeln.md",
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F17 Trogonometriska funktioners derivator.md",
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F18 Medelvärdessatsen.md",
-    "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F22 Inversa funktioner.md",
     "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F21 Implicit derivering, primitiv funktion och rörelse.md",
-    "Räkna/Matlab lab.md",
     "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner",
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F14 Derivata.md",
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F13 Kontinuitet.md",
@@ -259,7 +276,6 @@
     "Excalidraw/swappy-20230920_082500.png",
     "Brev melloting.md",
     "Räkna/Untitled 1.md",
-    "Räkna/Untitled.md",
     "Räkna/23-04-09 Matte.md",
     "Skola/LTU/R0007R Differentialkalkyl/Uppgifter",
     "Excalidraw/Trigthetaderiv.md",
@@ -268,11 +284,9 @@
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F12.1 Gränsvärden.md",
     "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/3.2 Polynom mm..md",
     "Excalidraw/20230912_133130.jpg",
-    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/6.1 Trigonometri.md",
     "Excalidraw/20230912_131852.jpg",
     "Excalidraw/20230912_133130.jpg.crdownload",
     "Excalidraw/20230912_131852.jpg.crdownload",
-    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/7.1 Talföljder.md",
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering",
     "Excalidraw/Drawing2023-09-0514.12.42.excalidraw.svg",
     "Räkna",
@@ -280,7 +294,6 @@
     "Skola/LTU/R0007R Differentialkalkyl/1 Grunder",
     "n4nteckningar/build/sitemap.xml",
     "n4nteckningar/build/index.html",
-    "n4nteckningar/build/Ingenjörsvetenskap (R0007R)/1.1 Intro/index.html",
     "Untitled.canvas"
   ]
 }
