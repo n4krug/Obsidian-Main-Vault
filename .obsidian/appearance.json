@@ -3,5 +3,6 @@
   "cssTheme": "Dracula Official",
   "interfaceFontFamily": "Cascadia Mono,Cascadia Code",
   "textFontFamily": "CaskaydiaCove NF",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "baseFontSize": 20
 }

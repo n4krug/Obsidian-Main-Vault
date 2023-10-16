@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F33 Grafritning.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F37 Taylorpolynom forts. Gränsvärden.md",
                 "mode": "source",
                 "source": false
               }
@@ -148,7 +148,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6bd6abc379c5c29f",
@@ -164,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F33 Grafritning.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F37 Taylorpolynom forts. Gränsvärden.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +182,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F33 Grafritning.md",
+                "file": "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F37 Taylorpolynom forts. Gränsvärden.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +205,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F33 Grafritning.md"
+                "file": "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F37 Taylorpolynom forts. Gränsvärden.md"
               }
             }
           },
@@ -248,10 +249,11 @@
   },
   "active": "ba179d809f4504af",
   "lastOpenFiles": [
+    "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F33 Grafritning.md",
+    "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F37 Taylorpolynom forts. Gränsvärden.md",
     "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F28.md",
     "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F27.md",
     "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F22 Inversa funktioner.md",
-    "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F33 Grafritning.md",
     "Phösarphaest.md",
     "Räkna/Matlab lab.md",
     "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F31.md",
@@ -282,7 +284,6 @@
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F12.2 Oegentliga gränsvärden.md",
     "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/8.1 Induktion.md",
     "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering/F12.1 Gränsvärden.md",
-    "Skola/LTU/R0007R Differentialkalkyl/1 Grunder/3.2 Polynom mm..md",
     "Excalidraw/20230912_133130.jpg",
     "Excalidraw/20230912_131852.jpg",
     "Excalidraw/20230912_133130.jpg.crdownload",
