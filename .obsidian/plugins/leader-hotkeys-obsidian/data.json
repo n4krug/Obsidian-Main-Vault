@@ -1,0 +1,82 @@
+{
+  "hotkeys": [
+    {
+      "sequence": [
+        {
+          "key": " ",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        },
+        {
+          "key": "p",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        },
+        {
+          "key": "s",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "switcher:open"
+    },
+    {
+      "sequence": [
+        {
+          "key": " ",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        },
+        {
+          "key": "p",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        },
+        {
+          "key": "v",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "switcher:open"
+    },
+    {
+      "sequence": [
+        {
+          "key": "ö",
+          "shift": false,
+          "alt": false,
+          "ctrl": true,
+          "meta": false
+        },
+        {
+          "key": "p",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        },
+        {
+          "key": "v",
+          "shift": false,
+          "alt": false,
+          "ctrl": false,
+          "meta": false
+        }
+      ],
+      "commandID": "switcher:open"
+    }
+  ]
+}

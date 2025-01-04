@@ -1,1 +1,11 @@
-{}
+{
+  "leader-hotkeys-obsidian:register-modal": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "]"
+    }
+  ],
+  "editor:delete-paragraph": []
+}

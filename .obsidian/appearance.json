@@ -1,8 +1,9 @@
 {
-  "accentColor": "#6bef97",
-  "cssTheme": "Dracula Official",
-  "interfaceFontFamily": "Cascadia Mono,Cascadia Code",
-  "textFontFamily": "CaskaydiaCove NF",
+  "accentColor": "#7d55b9",
+  "cssTheme": "Shimmering Focus",
+  "interfaceFontFamily": "Source Code Pro",
+  "textFontFamily": "Source Code Pro",
   "theme": "obsidian",
-  "baseFontSize": 20
+  "baseFontSize": 20,
+  "monospaceFontFamily": "Source Code Pro"
 }

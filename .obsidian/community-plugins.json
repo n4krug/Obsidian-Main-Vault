@@ -3,5 +3,6 @@
   "obsidian-checklist-plugin",
   "obsidian-icon-folder",
   "obsidian-excalidraw-plugin",
-  "quick-latex"
+  "quick-latex",
+  "leader-hotkeys-obsidian"
 ]
