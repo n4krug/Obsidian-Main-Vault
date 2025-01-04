@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F37 Taylorpolynom forts. Gränsvärden.md",
+                "file": "Skola/LTU/E0003E/L01.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "F37 Taylorpolynom forts. Gränsvärden"
+              "title": "L01"
             }
           },
           {
@@ -295,13 +295,14 @@
   },
   "active": "ba179d809f4504af",
   "lastOpenFiles": [
+    "Skola/LTU/E0003E/L01.md~",
+    "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F37 Taylorpolynom forts. Gränsvärden.md",
     "nvim.lua~",
     "4913",
     "shell.nix~",
     "shell.nix",
     "nvim.lua",
     "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F33 Grafritning.md",
-    "Skola/LTU/R0007R Differentialkalkyl/4 Tillämpningar/F37 Taylorpolynom forts. Gränsvärden.md",
     "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F28.md",
     "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F27.md",
     "Skola/LTU/R0007R Differentialkalkyl/3 Elementära funktioner/F22 Inversa funktioner.md",
@@ -337,8 +338,6 @@
     "Excalidraw/20230912_133130.jpg",
     "Excalidraw/20230912_131852.jpg",
     "Excalidraw/20230912_133130.jpg.crdownload",
-    "Excalidraw/20230912_131852.jpg.crdownload",
-    "Skola/LTU/R0007R Differentialkalkyl/2 Differentialkalkyl och derivering",
     "Excalidraw/Drawing2023-09-0514.12.42.excalidraw.svg",
     "Excalidraw/Drawing2023-09-0410.39.50.excalidraw.svg",
     "Untitled.canvas"
