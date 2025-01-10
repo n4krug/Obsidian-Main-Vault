@@ -153,9 +153,14 @@
 >
 > motsvarar kortslutning vid konstant ström då $v=0$
 >
-> > [!TLDR] Seriekoppling 
+> > [!INFO] Seriekoppling 
 > >
 > > $$L_{eq}=\sum_{i=k}^k L_i$$
+> >
+>
+> > [!INFO] Parallellkoppling
+> >
+> > $$\frac{1}{C_{eq}}=\sum^k_{i=k}C_i$$
 > >
 
 > [!TLDR] Kondensator
@@ -170,10 +175,33 @@
 >
 > motsvarar bruten krets vid konstant ström då $i=0$
 >
-> > [!TLDR] Seriekoppling
+> > [!INFO] Seriekoppling
 > > 
 > > $$\frac{1}{C_{eq}}=\sum^k_{i=k}\frac{1}{C_i}$$
 > >
-> > $$v(t_0)=\sum^k_{i=k}v_i(t_0)$$
+> 
+> > [!INFO] Parallellkoppling
 > >
+> > $$C_{eq}=\sum^k_{i=k}C_i$$
+> >
+
+> [!TLDR] Naturliga svar för RL och RC
+>
+> $$x(t)=x_f+[x(t_0)-x_f]e^{-(t-t_0)/\tau}$$
+> 
+> där $x$ ersätts av ström eller spänning
+>
+> ex:
+>
+> $$i(t)=\frac{V_s}{R}+(I_o-\frac{V_s}{R})e^{-(R/L)t}$$
+>
+
+> [!TLDR] Euler's formel
+> 
+> $$e^{ix}=\cos{x}+i\sin{x}$$
+>
+> $$\cos{x}=\mathbb{R}(e^{ix})=\frac{e^{ix}+e^{-ix}}{2}$$
+>
+> $$\sin{x}=\mathbb{I}(e^{ix})=\frac{e^{ix}+e^{-ix}}{2i}$$
+>
 
