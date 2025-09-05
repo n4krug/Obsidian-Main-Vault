@@ -1,4 +1,3 @@
-
 ## Sats
 
 Om $f^(x)$ existerar så är $f$ kontinuerlig.  
