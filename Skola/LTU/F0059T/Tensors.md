@@ -19,7 +19,7 @@ $$C_{ii}=B_{jj}$$
 
 $$\frac{\partial F_1}{\partial y_1}+\frac{\partial F_1}{\partial y_1}+\frac{\partial F_1}{\partial y_1}=0$$
 $$\frac{\partial F_i}{\partial y_i}=0$$ or $$F_{i,i}=0$$
-$$C_{ijkl}=\lambda\delta_{ij}\delta_{kl}+\micro(\delta_{ik}\delta{jl}+\delta_{il}\delta_{jk})+\beta(\delta_{ik}\delta_{jl}-\delta_{il}\delta_{jk})$$
+$$C_{ijkl}=\lambda\delta_{ij}\delta_{kl}+\mu(\delta_{ik}\delta{jl}+\delta_{il}\delta_{jk})+\beta(\delta_{ik}\delta_{jl}-\delta_{il}\delta_{jk})$$
 
 
 

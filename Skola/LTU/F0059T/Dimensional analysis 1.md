@@ -15,7 +15,7 @@ Steps in practise
 Let's focus on drag
 - example with cylinder
 
-$$\text{Reynolds: } Re=\frac{\rho UL}{\micro}$$
+$$\text{Reynolds: } Re=\frac{\rho UL}{\mu}$$
 $$\text{Drag coefficient: } C_{D}=\frac{F_{D}}{\frac{1}{2}\rho Av^{2}}$$
 
 
@@ -36,7 +36,7 @@ Variables:
 - Speed $U$ $LT^{-1}$
 - Length $L$ $L$
 - Density of the fluid $\rho$ $ML^{-3}$
-- Dynamic viscosity $\micro$ $ML^{-1}T^{-1}$
+- Dynamic viscosity $\mu$ $ML^{-1}T^{-1}$
 
 Number of $\pi$-groups: $5 \text{ Variables } - 3 \text{ Dimensions } = 2 \text{ }\pi\text{-groups }$
 
@@ -50,7 +50,7 @@ Choose repeating variables:
 
 
 
-> $$\Pi_{2}=\micro U^{a_{2}}\rho^{b_{2}}d^{c_{2}}$$
+> $$\Pi_{2}=\mu U^{a_{2}}\rho^{b_{2}}d^{c_{2}}$$
 > $$[M^{0}L^{0}T^{0}]=[ML^{-1}T^{-1}][LT^{-1}]^{a_{2}}[ML^{-3}]^{b_{2}}[L]^{c_{2}}$$
 
 
@@ -69,16 +69,16 @@ $U=90\text{km/h}$
 - Speed $U$ $LT^{-1}$
 - Length $L$ $L$
 - Density of the fluid $\rho$ $ML^{-3}$
-- Dynamic viscosity $\micro$ $ML^{-1}T^{-1}$
+- Dynamic viscosity $\mu$ $ML^{-1}T^{-1}$
 
 Out:
-$$\text{Reynolds: } Re=\frac{\rho UL}{\micro}$$
+$$\text{Reynolds: } Re=\frac{\rho UL}{\mu}$$
 $$\text{Drag coefficient: } C_{D}=\frac{F_{D}}{\frac{1}{2}\rho Av^{2}}$$
 
-> a) $Re=\frac{\rho UL}{\micro}$
+> a) $Re=\frac{\rho UL}{\mu}$
 > Similarity: $Re_{m}=Re_{p}$
 > $\rho_{m}=\rho_{p}=\rho$
-> $\micro_{m}=\micro_{p}=\micro$
+> $\mu_{m}=\mu_{p}=\mu$
 > 
 > $\Rightarrow U_{m}=\frac{U_{p}L_{p}}{L_{m}}$
 > Model Scale 1:3
