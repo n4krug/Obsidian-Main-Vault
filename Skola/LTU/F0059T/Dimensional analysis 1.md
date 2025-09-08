@@ -46,11 +46,13 @@ Choose repeating variables:
 - Density
 
 > $$\Pi_{1}=F_{D}U^{a_{1}}\rho^{b_{1}}d^{c_{1}}$$
+> 
 > $$[M^{0}L^{0}T^{0}]=[MLT^{-2}][LT^{-1}]^{a_{1}}[ML^{-3}]^{b_{1}}[L]^{c_{1}}$$
 
 
 
 > $$\Pi_{2}=\mu U^{a_{2}}\rho^{b_{2}}d^{c_{2}}$$
+> 
 > $$[M^{0}L^{0}T^{0}]=[ML^{-1}T^{-1}][LT^{-1}]^{a_{2}}[ML^{-3}]^{b_{2}}[L]^{c_{2}}$$
 
 
@@ -75,31 +77,40 @@ Out:
 $$\text{Reynolds: } Re=\frac{\rho UL}{\mu}$$
 $$\text{Drag coefficient: } C_{D}=\frac{F_{D}}{\frac{1}{2}\rho Av^{2}}$$
 
-> a) $Re=\frac{\rho UL}{\mu}$
-> Similarity: $Re_{m}=Re_{p}$
-> $\rho_{m}=\rho_{p}=\rho$
-> $\mu_{m}=\mu_{p}=\mu$
+> a) $Re=\frac{\rho UL}{\mu}$ 
+> Similarity: $Re_{m}=Re_{p}$ 
+> $\rho_{m}=\rho_{p}=\rho$ 
+> $\mu_{m}=\mu_{p}=\mu$ 
 > 
-> $\Rightarrow U_{m}=\frac{U_{p}L_{p}}{L_{m}}$
-> Model Scale 1:3
-> $\Rightarrow L_{m}=\frac{L_{p}}{3}$
+> $\Rightarrow U_{m}=\frac{U_{p}L_{p}}{L_{m}}$ 
+> Model Scale 1:3 
+> $\Rightarrow L_{m}=\frac{L_{p}}{3}$ 
 > 
-> $U_{p}=90\text{km/h}=\frac{90000}{3600}=25\text{m/s}$
-> $\Rightarrow U_{p}=\frac{U_{p}L_{p}}{L_{m}}=3U_{p}=75\text{m/s}=270\text{km/h}$
+> $U_{p}=90\text{km/h}=\frac{90000}{3600}=25\text{m/s}$ 
+> $\Rightarrow U_{p}=\frac{U_{p}L_{p}}{L_{m}}=3U_{p}=75\text{m/s}=270\text{km/h}$ 
 
 
-> b) $C_{D} = \frac{F_{D}}{\frac{1}{2}\rho U^{2} A}$
-> Similarity: $C_{Dm}=C_{Dp}$
-> $\frac{F_{Dm}}{\frac{1}{2}\rho U_{m}^{2}A_{m}}=\frac{F_{Dp}}{\frac{1}{2}\rho U_{p}^{2}A_{p}}$
+> b) $C_{D} = \frac{F_{D}}{\frac{1}{2}\rho U^{2} A}$ 
 > 
-> $\Rightarrow F_{Dp}=\frac{U_{p}^{2}A_{p}F_{Dm}}{U_{m}^{2}A_{m}}$
+> Similarity: $C_{Dm}=C_{Dp}$ 
 > 
-> $A=L^2$
+> $\frac{F_{Dm}}{\frac{1}{2}\rho U_{m}^{2}A_{m}}=\frac{F_{Dp}}{\frac{1}{2}\rho U_{p}^{2}A_{p}}$ 
+> 
+> 
+> $\Rightarrow F_{Dp}=\frac{U_{p}^{2}A_{p}F_{Dm}}{U_{m}^{2}A_{m}}$ 
+> 
+> 
+> $A=L^2$ 
+> 
 > $L_{m}=\frac{L_{p}}{3}$
+> 
 > $\Rightarrow A_{m}=(\frac{L_{p}}{3})^{2}=\frac{A_{p}}{9}$
+> 
 > $U_{m}=3U_{p} \Rightarrow U_{m}^{2}=9U_{p}$
 > 
+> 
 > $\Rightarrow F_{Dp} = \frac{U_{p}^{2}A_{p}F_{Dm}} {9U_{p}^{2} \frac{A_{p}}{9}}=F_{Dm}=150\text{N}$ 
+> 
 
 
 ### Example problem B.6
