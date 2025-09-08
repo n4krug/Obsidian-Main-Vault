@@ -77,20 +77,29 @@ Out:
 $$\text{Reynolds: } Re=\frac{\rho UL}{\mu}$$
 $$\text{Drag coefficient: } C_{D}=\frac{F_{D}}{\frac{1}{2}\rho Av^{2}}$$
 
-> a) $Re=\frac{\rho UL}{\mu}$ 
+**a)**
+> $Re=\frac{\rho UL}{\mu}$ 
+> 
 > Similarity: $Re_{m}=Re_{p}$ 
+> 
 > $\rho_{m}=\rho_{p}=\rho$ 
+> 
 > $\mu_{m}=\mu_{p}=\mu$ 
 > 
+> 
 > $\Rightarrow U_{m}=\frac{U_{p}L_{p}}{L_{m}}$ 
+> 
 > Model Scale 1:3 
+> 
 > $\Rightarrow L_{m}=\frac{L_{p}}{3}$ 
 > 
 > $U_{p}=90\text{km/h}=\frac{90000}{3600}=25\text{m/s}$ 
+> 
 > $\Rightarrow U_{p}=\frac{U_{p}L_{p}}{L_{m}}=3U_{p}=75\text{m/s}=270\text{km/h}$ 
 
 
-> b) $C_{D} = \frac{F_{D}}{\frac{1}{2}\rho U^{2} A}$ 
+**b)**
+> $C_{D} = \frac{F_{D}}{\frac{1}{2}\rho U^{2} A}$ 
 > 
 > Similarity: $C_{Dm}=C_{Dp}$ 
 > 
