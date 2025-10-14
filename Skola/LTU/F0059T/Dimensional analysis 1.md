@@ -13,6 +13,7 @@ Steps in practise
 	- ...
 
 Let's focus on drag
+
 - example with cylinder
 
 $$\text{Reynolds: } Re=\frac{\rho UL}{\mu}$$
