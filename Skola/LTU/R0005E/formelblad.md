@@ -1,9 +1,9 @@
 
 att ha med:
 
-laplace tabell
-
-N, P, Z
+|   $f(t)$  |   $F(s)$          |
+---------------------------------
+|   1       |   $\frac{1}{s}$   |
 
 $Z=N+P$
 - $N$ - number of clock-wise encirclements of $(-1,0)$
