@@ -1,6 +1,7 @@
 
 att ha med:
 
+# Laplace transforms
 
 $$
 \begin{cases}
@@ -11,12 +12,15 @@ $$
 \end{cases}
 $$
 
+# Nyquist
 
 $Z=N+P$
 - $N$ - number of clock-wise encirclements of $(-1,0)$
 - $P$ - number of unstable poles ($\text{Re}>0$) (open-loop)
 - $Z$ - number of unstable poles ($\text{Re}>0$) (closed-loop)
 
+
+# Bode
 
 > [!TLDR] $K_0(j\omega)^n$
 > 
@@ -48,4 +52,30 @@ $Z=N+P$
 > Phase: $\pm180^\circ$
 
 
-linearisering
+# Linearisering
+
+> [!TLDR] Example $\ddot{y}+5\dot{y}+2y^2=F$
+>
+> $F_0=0$
+>
+> $x_1=y$
+>
+> $x_2=\dot{y}=\dot{x}_1$
+> 
+> $\Rightarrow\dot{x}_2=\ddot{y}=\ddot{x}_1$
+>
+>
+> $\dot{x}_2=F-5x_2-2x_1^2$
+>
+>
+> Equilibrium:
+> 
+> $\dot{x}_2=0$
+>
+> $\dot{x}_1=x_2=0$
+>
+> $F_0=0\;\Rightarrow\;2x_1^2=F_0=0\Rightarrow x_1=0$
+>
+>
+> $\ddot{y}+5\dot{y}=F$
+> 
